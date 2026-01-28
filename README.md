@@ -1,4 +1,4 @@
-# DSA Practice & LeetCode Solutions
+# DSA Practice
 
 This repository contains my concept files and notes created while learning and revising core DSA topics.
 
